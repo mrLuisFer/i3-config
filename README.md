@@ -38,5 +38,21 @@ For example:
 yay -S nerd-fonts-complete
 ```
 
+Another recommended `dMenu` dependency for Arch users, you can install it by following the link:
+
+- [suckless/dmenu](https://tools.suckless.org/dmenu/)
+```
+yay -S dmenu
+```
+
+Or a modern alternative is `Rofi`:
+
+- [github/davatorium/rofi](https://github.com/davatorium/rofi)
+- [archlinux/Rofi](https://wiki.archlinux.org/title/Rofi)
+
+```
+yay -S rofi
+```
+
 ## 💻 Shortcuts
 building...
