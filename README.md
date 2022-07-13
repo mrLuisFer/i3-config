@@ -28,4 +28,4 @@ git clone -b main https://github.com/mrLuisFer/i3-config.git .
 
 
 ## Shortcuts
-
+building...
