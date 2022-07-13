@@ -10,7 +10,7 @@ You can read the official documentation on how to install it
 
 Some of the commands you can run are the following:
 
-If you use a system that uses `pacman` or `yay` like me, you can run the following command
+If you use a system that uses `pacman` or `yay`, you can run the following command
 ```
 yay -S i3wm i3status
 ```
@@ -20,7 +20,7 @@ Once installed you can clone the repository at the following path: (`~/.config/i
 mkdir ~/.config/i3 && cd ~/.config/i3
 ```
 
-And execute:
+And run:
 ```
 git clone -b main https://github.com/mrLuisFer/i3-config.git .
 ```
