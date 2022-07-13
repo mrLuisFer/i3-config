@@ -1,4 +1,4 @@
-# i3-config
+# i3 Basic Config for Linux
 
 ## Setup
 First of all, you need to install **i3wm** and **i3status**\
