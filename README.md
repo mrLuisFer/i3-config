@@ -56,3 +56,10 @@ yay -S rofi
 
 ## 💻 Shortcuts
 building...
+
+### 📎 References
+Links used to build this configuration:
+
+- [https://i3wm.org/docs/](https://i3wm.org/docs/)
+- [https://i3wm.org/docs/i3status.html](https://i3wm.org/docs/i3status.html)
+- [https://thevaluable.dev/i3-config-mouseless/](https://thevaluable.dev/i3-config-mouseless/)
