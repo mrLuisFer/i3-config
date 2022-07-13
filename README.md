@@ -1,6 +1,6 @@
 # i3wm Basic Config for Linux
 
-## Setup
+## 📦 Setup
 First of all, you need to install **i3wm** and **i3status**\
 You can read the official documentation on how to install it
 
@@ -38,5 +38,5 @@ For example:
 yay -S nerd-fonts-complete
 ```
 
-## Shortcuts
+## 💻 Shortcuts
 building...
